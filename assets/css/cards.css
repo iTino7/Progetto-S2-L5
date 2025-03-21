@@ -1,0 +1,44 @@
+/* CARD */
+
+.containerMainCard {
+    background-color: white;
+    border-radius: 4px;
+}
+
+.textCard {
+    padding: 10px 0;
+    margin-left: 10px;
+}
+
+.textCard h3 {
+    margin-right: 10px;
+    display: inline-block;
+    color: black;
+}
+
+.textCard p a {
+    text-decoration: none;
+    color: #0f5d6c;
+    font-weight: 500;
+}
+
+.textCard p {
+    display: inline-block;
+}
+
+.containerCard {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.card img {
+    width: 400px;
+    height: 350px;
+    margin: 40px 0;
+    border-radius: 8px;
+    box-shadow: 18px 21px 47px -22px rgba(0, 0, 0, 0.75);
+}

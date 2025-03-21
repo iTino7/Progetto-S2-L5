@@ -1,0 +1,25 @@
+/* FOOTER  */
+
+
+.containerFooter {
+    text-align: center;
+    background-color: #21303e;
+}
+
+.containerBack {
+    background-color: #364858;
+}
+
+.containerBack h4 {
+    color: white;
+    padding: 10px 0;
+    font-size: 18px;
+}
+
+.logoFooter {
+    padding: 60px 0;
+}
+
+.logoFooter img {
+    width: 200px;
+}

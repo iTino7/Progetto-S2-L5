@@ -1,0 +1,21 @@
+/* HEADER */
+header {
+  background-color: #21303e;
+  padding: 10px 0;
+}
+
+header img {
+  width: 150px;
+}
+
+.navBar {
+  background-color: #364858;
+  color: white;
+  padding: 14px 0;
+}
+
+.navBar ul li {
+  display: inline-block;
+  margin-left: 14px;
+  font-size: 16px;
+}

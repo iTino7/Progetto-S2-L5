@@ -1,0 +1,27 @@
+/* HOLIDAY GIFT */
+
+.containerGift {
+    margin: 40px 0;
+    background-image: url("/assets/img/bg-image.png");
+    background-size: contain;
+    padding: 40px 0;
+    border-radius: 4px;
+  }
+  
+  .containerText {
+    text-align: center;
+    color: white;
+    margin: 20px 0;
+  }
+  
+  .containerText h2 {
+    font-size: 36px;
+    font-weight: 500;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+  }
+  
+  .containerText p {
+    font-weight: 500;
+    font-size: 16px;
+  }
